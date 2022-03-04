@@ -63,7 +63,7 @@
       <LanguageStandard_C>stdc17</LanguageStandard_C>
       <PrecompiledHeader>Create</PrecompiledHeader>
       <PrecompiledHeaderFile>Olympus.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>C:\Code Projects\OlympusMons\S01E03\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Code Projects\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>NotSet</SubSystem>
@@ -82,7 +82,7 @@
       <LanguageStandard_C>stdc17</LanguageStandard_C>
       <PrecompiledHeader>Create</PrecompiledHeader>
       <PrecompiledHeaderFile>Olympus.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>C:\Code Projects\OlympusMons\S01E03\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Code Projects\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>NotSet</SubSystem>

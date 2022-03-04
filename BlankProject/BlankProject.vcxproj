@@ -84,7 +84,7 @@
       <LanguageStandard_C>stdc17</LanguageStandard_C>
       <PrecompiledHeader>Create</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>C:\Code Projects\OlympusMons\S01E03\OlympusEngine\BlankProject\Source;C:\Code Projects\OlympusMons\S01E03\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Code Projects\OlympusEngine\BlankProject\Source;C:\Code Projects\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -103,7 +103,7 @@
       <LanguageStandard_C>stdc17</LanguageStandard_C>
       <PrecompiledHeader>Create</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>C:\Code Projects\OlympusMons\S01E03\OlympusEngine\BlankProject\Source;C:\Code Projects\OlympusMons\S01E03\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>C:\Code Projects\OlympusEngine\BlankProject\Source;C:\Code Projects\OlympusEngine\Olympus\Source;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
